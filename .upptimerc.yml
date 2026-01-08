@@ -6,27 +6,27 @@ sites:
     url: https://www.oznorts.com
   - name: Domain Management
     url: https://reseller.enom.com/interface.asp
-  - name: la-s3: cPanel
+  - name: "la-s3: cPanel"
     url: oznorts.host
     port: 2083
     check: "tcp-ping"
-  - name: la-s3: HTTPS
+  - name: "la-s3: HTTPS"
     url: 146.71.80.108
     port: 443
     check: "tcp-ping"
-  - name: la-s3: HTTP
+  - name: "la-s3: HTTP"
     url: 146.71.80.108
     port: 80
     check: "tcp-ping"
-  - name: la-s3: Incoming Email
+  - name: "la-s3: Incoming Email"
     url: 146.71.80.108
     port: 143
     check: "tcp-ping"
-  - name: la-s3: Outgoing Email
+  - name: "la-s3: Outgoing Email"
     url: la-s3.serverpanel.net
     port: 465
     check: "tcp-ping"
-  - name: la-s3: FTP
+  - name: "la-s3: FTP"
     url: 146.71.80.108
     port: 21
     check: "tcp-ping"
