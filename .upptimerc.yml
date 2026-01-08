@@ -4,6 +4,7 @@ repo: uptime
 sites:
   - name: Website
     url: https://www.oznorts.com
+    type: globalping
   - name: Domain Management
     url: https://reseller.enom.com/interface.asp
   - name: "la-s3: cPanel"
