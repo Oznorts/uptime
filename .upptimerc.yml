@@ -51,6 +51,9 @@ status-website:
       href: https://www.oznorts.com
     - title: Status Home
       href: /uptime
+i18n:
+  footer: ""
+  incidentViewOnGitHub: ""
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
