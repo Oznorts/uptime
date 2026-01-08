@@ -1,21 +1,35 @@
-# Change these first
-owner: Oznorts # Your GitHub organization or username, where this repository lives
-repo: uptime # The name of this repository
+owner: Oznorts
+repo: uptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: Website
+    url: https://www.oznorts.com
+  - name: Domain Management
+    url: https://reseller.enom.com/interface.asp
+  - name: la-s3: cPanel
+    url: oznorts.host
+    port: 2083
+    check: "tcp-ping"
+  - name: la-s3: HTTPS
+    url: 146.71.80.108
+    port: 443
+    check: "tcp-ping"
+  - name: la-s3: HTTP
+    url: 146.71.80.108
     port: 80
     check: "tcp-ping"
-    ipv6: true
+  - name: la-s3: Incoming Email
+    url: 146.71.80.108
+    port: 143
+    check: "tcp-ping"
+  - name: la-s3: Outgoing Email
+    url: la-s3.serverpanel.net
+    port: 465
+    check: "tcp-ping"
+  - name: la-s3: FTP
+    url: 146.71.80.108
+    port: 21
+    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -30,9 +44,7 @@ status-website:
     - title: Home
       href: https://www.oznorts.com
     - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: /uptime/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
