@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oznorts.com.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "1.01%",
-    "uptimeDay": "1.01%",
-    "uptimeWeek": "1.01%",
-    "uptimeMonth": "1.01%",
-    "uptimeYear": "1.01%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 642,
     "timeDay": 642,
     "timeWeek": 642,
     "timeMonth": 642,
     "timeYear": 642,
-    "dailyMinutesDown": {
-      "2026-01-08": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Domain Management",
