@@ -50,7 +50,7 @@ status-website:
     - title: Website Home
       href: https://www.oznorts.com
     - title: Status Home
-      href: /uptime
+      href: /
 i18n:
   footer: ""
   incidentViewOnGitHub: ""
