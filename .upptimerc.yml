@@ -31,12 +31,16 @@ sites:
     url: 146.71.80.108
     port: 21
     check: "tcp-ping"
+  - name: "Third-Party Addons: SpamExperts Dashboard"
+    url: https://login.antispamcloud.com
+  - name: "Third-Party Addons: Uptime Monitor"
+    url: http://uptime.oznorts.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /uptime
+  baseUrl: /uptime/
   logoUrl: https://www.oznorts.com/assets/img/favicon/apple-touch-icon-180x180.png
   favicon: https://www.oznorts.com/assets/img/favicon/apple-touch-icon.png
   name: Oznorts Status
