@@ -36,7 +36,8 @@ sites:
   - name: "Third-Party Addons: Uptime Monitor"
     url: http://uptime.oznorts.com
 
-# status-website:
+status-website:
+  publish: false
 #   # Add your custom domain name, or remove the `cname` line if you don't have a domain
 #   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
 #   cname: status.oznorts.com
