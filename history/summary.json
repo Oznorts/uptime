@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oznorts.com.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "97.16%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "97.16%",
+    "uptimeMonth": "97.16%",
+    "uptimeYear": "97.16%",
     "time": 1185,
     "timeDay": 1025,
     "timeWeek": 1185,
     "timeMonth": 1185,
     "timeYear": 1185,
     "dailyMinutesDown": {
-      "2026-01-09": 0
+      "2026-01-10": 50,
+      "2026-01-09": 1
     }
   },
   {
