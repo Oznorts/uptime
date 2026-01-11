@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oznorts.com.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "96.77%",
-    "uptimeDay": "96.73%",
-    "uptimeWeek": "96.77%",
-    "uptimeMonth": "96.77%",
-    "uptimeYear": "96.77%",
+    "uptime": "97.34%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "97.34%",
     "time": 1174,
-    "timeDay": 1056,
+    "timeDay": 985,
     "timeWeek": 1174,
     "timeMonth": 1174,
     "timeYear": 1174,
     "dailyMinutesDown": {
+      "2026-01-11": 4,
       "2026-01-10": 104,
       "2026-01-09": 1
     }
@@ -97,45 +98,49 @@
     "url": "146.71.80.108",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "la-s3-incoming-email",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 45,
     "timeDay": 64,
     "timeWeek": 45,
     "timeMonth": 45,
     "timeYear": 45,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-11": 3
+    }
   },
   {
     "name": "la-s3: Outgoing Email",
     "url": "la-s3.serverpanel.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "la-s3-outgoing-email",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 52,
     "timeDay": 140,
     "timeWeek": 52,
     "timeMonth": 52,
     "timeYear": 52,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-11": 1
+    }
   },
   {
     "name": "la-s3: FTP",
     "url": "146.71.80.108",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "la-s3-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -144,7 +149,9 @@
     "timeWeek": 41,
     "timeMonth": 41,
     "timeYear": 41,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-11": 0
+    }
   },
   {
     "name": "Third-Party Addons: SpamExperts Dashboard",
