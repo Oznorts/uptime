@@ -100,19 +100,19 @@
     "url": "146.71.80.108",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "la-s3-incoming-email",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 46,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 45,
     "timeDay": 9,
-    "timeWeek": 56,
-    "timeMonth": 46,
-    "timeYear": 46,
+    "timeWeek": 50,
+    "timeMonth": 45,
+    "timeYear": 45,
     "dailyMinutesDown": {
-      "2026-01-24": 3
+      "2026-01-24": 10
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "la-s3.serverpanel.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "la-s3-outgoing-email",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 52,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 51,
     "timeDay": 9,
-    "timeWeek": 44,
-    "timeMonth": 52,
-    "timeYear": 52,
+    "timeWeek": 39,
+    "timeMonth": 51,
+    "timeYear": 51,
     "dailyMinutesDown": {
-      "2026-01-24": 1
+      "2026-01-24": 9
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "146.71.80.108",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "la-s3-ftp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 41,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 40,
     "timeDay": 10,
-    "timeWeek": 45,
-    "timeMonth": 41,
-    "timeYear": 41,
+    "timeWeek": 40,
+    "timeMonth": 40,
+    "timeYear": 40,
     "dailyMinutesDown": {
-      "2026-01-24": 0
+      "2026-01-24": 7
     }
   },
   {
